@@ -14,7 +14,7 @@ Building AI products, developer tools, and cross-platform app monetization infra
   [Visit ADX](https://adx.theaimart.co/)
 
 - **AIX** — AI application APIs and developer infrastructure.
-  [Explore AIX](https://api.aix.theaimart.co/)
+  [Explore AIX](https://aix.theaimart.co/)
 
 - **TAIM** — A Rust-based GUI and application framework.
   [GitHub Repository](https://github.com/theaimartco/taim)
